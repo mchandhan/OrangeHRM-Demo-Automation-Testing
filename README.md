@@ -1,11 +1,7 @@
-
-```
 # OrangeHRM Functional Tests
 
 This project contains automated functional tests for the [OrangeHRM demo site](https://opensource-demo.orangehrmlive.com/) using **Python**, **Selenium WebDriver**, and **unittest**.  
 Test execution reports are generated with **HtmlTestRunner**.
-
-```
 
 ## Project Structure
 
